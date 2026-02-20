@@ -4,7 +4,7 @@
 
 Instrucciones claras de compilación y ejecución:
 
-*Primero, abre la consola (cmd) y ubícate en la carpeta raíz del proyecto, donde se encuentra el archivo pom.xml.
+* Primero, abre la consola (cmd) y ubícate en la carpeta raíz del proyecto, donde se encuentra el archivo pom.xml.
 
 *Para compilar el proyecto, ejecuta:
 mvn clean package
